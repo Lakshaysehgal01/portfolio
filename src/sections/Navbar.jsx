@@ -46,6 +46,7 @@ const Navbar = () => {
               src={isOpen ? "assets/close.svg" : "assets/menu.svg"}
               className="w-6 h-6"
               alt="toggle"
+              decoding="async"
             />
           </button>
           <nav className="hidden sm:flex">

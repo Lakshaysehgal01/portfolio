@@ -14,7 +14,7 @@ export const myProjects = [
 
     href: "https://chatty-6.netlify.app/",
     logo: "",
-    image: "/assets/projects/chatty.png",
+    image: "/assets/projects/chatty.webp",
 
     tags: [
       {
@@ -52,7 +52,7 @@ export const myProjects = [
     ],
     href: "https://verify-v1.netlify.app/",
     logo: "",
-    image: "/assets/projects/veriFy.png",
+    image: "/assets/projects/veriFy.webp",
     tags: [
       {
         id: 1,
@@ -96,7 +96,7 @@ export const myProjects = [
 
     href: "https://quick-ai.netlify.app/",
     logo: "",
-    image: "/assets/projects/quick-ai.png",
+    image: "/assets/projects/quick-ai.webp",
 
     tags: [
       {
@@ -134,7 +134,7 @@ export const myProjects = [
     ],
     href: "https://gaming-zentry.netlify.app/",
     logo: "",
-    image: "/assets/projects/Zentry.png",
+    image: "/assets/projects/Zentry.webp",
     tags: [
       {
         id: 1,
@@ -173,7 +173,7 @@ export const myProjects = [
 
     href: "https://crownfund.netlify.app/",
     logo: "",
-    image: "/assets/projects/crownFund.png",
+    image: "/assets/projects/crownFund.webp",
 
     tags: [
       {
